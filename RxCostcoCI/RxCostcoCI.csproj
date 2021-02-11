@@ -132,7 +132,7 @@
       <BoundTo>5f83f359-96fc-493a-8a73-12830388c79e</BoundTo>
       <DependentUpon>Recording1.rxrec</DependentUpon>
       <RecorderCode>true</RecorderCode>
-      <id>262240db-b0c2-4e6d-b162-06e201bb8f24</id>
+      <id>147df736-031e-4028-a6b9-9b72811c48ac</id>
     </Compile>
     <Compile Include="Recording1.UserCode.cs">
       <BoundTo>5f83f359-96fc-493a-8a73-12830388c79e</BoundTo>

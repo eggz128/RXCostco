@@ -1636,6 +1636,18 @@ ADFGKKKADFGKKKADFGKKKADFGKKKADFGKKKADFGKKKADFGKKKADFGKKKADFGKKKADFGKKKADFGKK
 KADFGKKKADFGKKKADFGKKKADFGKKKADFGKKKADFGKKKADFGKKKADFKBRRQA4CloooA//2Q==
 			</helperscreenshot>
 		</mouseitem>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="A change"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="b21dab54-27ef-49fa-9cd6-885198cccae5">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
 		<mouseitem
 		action="Click"
 		button="Left"

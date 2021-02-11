@@ -95,7 +95,9 @@ namespace RxCostcoCI
             repo.KeyPromptForm.MBtnOK.Click("29;13");
             Delay.Milliseconds(200);
             
-            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'MainForm.Close' at 25;13.", repo.MainForm.CloseInfo, new RecordItemIndex(4));
+            Report.Log(ReportLevel.Info, "User", "A change", new RecordItemIndex(4));
+            
+            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'MainForm.Close' at 25;13.", repo.MainForm.CloseInfo, new RecordItemIndex(5));
             repo.MainForm.Close.Click("25;13");
             Delay.Milliseconds(200);
             
