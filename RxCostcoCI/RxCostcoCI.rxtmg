@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="RxCostcoCI"
+      id="2b140658-eae5-4ed3-89a1-f1d91f90a8a5"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="RxCostcoCI"
+      id="2b140658-eae5-4ed3-89a1-f1d91f90a8a5"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

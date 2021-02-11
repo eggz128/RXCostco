@@ -1,0 +1,134 @@
+﻿<repository
+id="7d9142d7-3237-4654-9e6c-0cc81b618c1e"
+name="RxCostcoCIRepository">
+	<codegen
+	classname="RxCostcoCIRepository"
+	namespace="RxCostcoCI">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="8a921617-86c0-47ef-a611-3de0decca28e"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="container,webdocument"
+		capname="webdocument"
+		id="04256deb-47ae-4257-b8bf-8d4fdc81b2d6"
+		isrooted="True"
+		name="ReleaseNotesRanorexAutomatedSoft"
+		refpath="/dom[@domain='www.ranorex.com']"
+		searchtimeout="30000ms"
+		usecache="False">
+			<basepath>
+				/dom[@domain='www.ranorex.com']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGHRFWHRTb2Z0d2FyZQBQYWlu
+dC5ORVQgdjMuMzE3g3eGAAACKklEQVQ4T43R20vTcRjHcS/6G4Kgyy6KKKjwJogIDBJjIBUt2YVD
+yoGVmWUWzozMC92YaWqeSE1s0dThOtjBWUlKkMxDudXU1lCU6XSepzu82+/nvNrX6APP1e95Xt/f
+9/vEbaWh7TO1xi4qmjspfWKhuLqN++VGtLqn5BTVk1lQRbRVHGn4X8nTNclYtD020smBYDjaHhsJ
+cIxPbY8YIr+9viEGgqGwDBxLvixXfGJaLCLdedUfCwRDyPDKWoiF5SAuT0AMSA+2BXhXZqmydFBu
+bkfbmkFpayPOyQW8CwHs7jUxIN1NOkEa1llLGA7bsYX7KbTd4GiuiUuVbxhyzTMwuiwGpFX5lkLU
+dFjJ+55Mw5yGGpsRtX6Kk2Ue9jWewtBRx9eRJTEg7XnWF+TBo25SzUmo3inINLjIKoPD1QXsbNvN
+6fxr9Az5xIDm9kOm5gLce+xEW/aF1BYlCmshSr2PMxm32HV3B8ez0/jQPycG1NklTMxsUGUaQaMD
+lc7EIcse4vXJJF18xX7FVUpq6njd5xUDKVeKcE2v4xib52bxIAdza9mbf4CE9OscUZo5q3nO295p
+zD0zYuBcegHOCb+8KpvDi6G5hRMX8klIKaei6b083PdjCdNHjxhQqO/gcPsj77CB27PO2OQa9j+r
+8tq+/VyODC/yaXBxeyBRlUPv8Dzt3eO86PrNs85Rml7+ot7soLrVTqVpsypMTjGQcD5L/vC/tTkV
+F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,control,nativewindow"
+		capname="form"
+		id="d42d0d63-6d73-41e9-bf08-cb71a5a409aa"
+		isrooted="True"
+		name="KeyPromptForm"
+		refpath="/form[@controlname='KeyPromptForm']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="text,accessible"
+			capname="text"
+			id="53242a46-d503-4992-95e2-e7e15e0cdad0"
+			name="Text"
+			refimgid="c0b31784-bd78-4afc-8835-b157289272d9"
+			refpath="/form[@controlname='KeyPromptForm']/text[@controlname='m_tbPassword']/text[@accessiblerole='Text']"
+			searchtimeout="30000ms">
+				/form[@controlname='KeyPromptForm']/?/?/text[@accessiblerole='Text']
+			</item>
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="50588835-65b7-40c3-b426-cb56aee86df9"
+			name="MBtnOK"
+			refimgid="f4903c2d-fb89-4ed3-832e-71297f276f60"
+			refpath="/form[@controlname='KeyPromptForm']/button[@controlname='m_btnOK']"
+			searchtimeout="30000ms">
+				/form[@controlname='KeyPromptForm']/button[@controlname='m_btnOK']
+			</item>
+			<basepath>
+				/form[@controlname='KeyPromptForm']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAJcSURBVDhPhZJdSJNRGMe3ldteYWsEQfZ1YaAh
+ZVRGRo0oaFESVq6lA5MCI7ooCHFudlFW5tYHESSZ+RFGEBVBhjeWoHQ1LesmooZG4ZauzeHm1M23
+f+c5b8cpNPrD/+J9z/k9z3k+VGlkZG5mHmNOMHuZS5n/K4k5aTab4fMNY3pGRnxKRnRSRoPnFtgZ
+2UMX/6VNGo0Gs7MyIlEZ3/wJfBqexrvPU3j7MY7XAzEEfiVR47pEQX4oSEp6tVoNWf6N0VCSw1kr
+VomM3BdvvMCT7gn0sEAtD5/RvwHmOSUps4DzN26FwWjimbu9MTjqOniQ1s4wGp+Po3cwjg35m+nf
+coKNVHNkIvVsutzTP87hl31RntloWgbL4XO4+TiMK20hDI0k6F6MAjR/9Q0tqJkCzIfbXkWwdl0h
+tuw8xuHae0F2PsnvUYAgdVvAVRfuoLzShbITTljLnSi216DI5oClxIE9xdUcPn97DJ6OMAp37OYB
+ZmhUotvOy62oPOtGxRk37KcacPTkNRw6Xo8iez322q5y+LR7FI67QVj2H+EBvDRn0bCcvALodBK0
+zKalWbxmnWSATm+AlpngiroArj8KsUmt5gFKaUne9Cs1r8leL2qDlLmE1yy+yQTbav14/7dXzFz4
+yZaEGpadW4AMrX7OizNSXsRMsNXpR2NLJ8H3FZytJ20YvYLmLEYlGiaeTfDBqhF8+KKMWkFT+v6g
+/SlfknSw1RXgsF7KJHilgi1Ub05uHl8SmjONqpp1mxo2yGpuau8SmfkGphMd0oZh2/Zd2HegRHSb
+3MQ8TyrVHxMR59kie/4bAAAAAElFTkSuQmCC
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,control,nativewindow"
+		capname="form"
+		id="ca422c22-82fc-44c9-bf7b-2e1632dde46b"
+		isrooted="True"
+		name="MainForm"
+		refpath="/form[@controlname='MainForm']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="button,accessible"
+			capname="button"
+			id="5f062f84-7aa9-4043-a148-1f298464bc51"
+			name="Close"
+			refimgid="54060930-ba49-4f0d-9403-e21ea7b46bcf"
+			refpath="/form[@controlname='MainForm']/titlebar/button[@accessiblename='Close']"
+			searchtimeout="30000ms">
+				/form[@controlname='MainForm']/?/?/button[@accessiblename='Close']
+			</item>
+			<basepath>
+				/form[@controlname='MainForm']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAJcSURBVDhPhZJdSJNRGMe3ldteYWsEQfZ1YaAh
+ZVRGRo0oaFESVq6lA5MCI7ooCHFudlFW5tYHESSZ+RFGEBVBhjeWoHQ1LesmooZG4ZauzeHm1M23
+f+c5b8cpNPrD/+J9z/k9z3k+VGlkZG5mHmNOMHuZS5n/K4k5aTab4fMNY3pGRnxKRnRSRoPnFtgZ
+2UMX/6VNGo0Gs7MyIlEZ3/wJfBqexrvPU3j7MY7XAzEEfiVR47pEQX4oSEp6tVoNWf6N0VCSw1kr
+VomM3BdvvMCT7gn0sEAtD5/RvwHmOSUps4DzN26FwWjimbu9MTjqOniQ1s4wGp+Po3cwjg35m+nf
+coKNVHNkIvVsutzTP87hl31RntloWgbL4XO4+TiMK20hDI0k6F6MAjR/9Q0tqJkCzIfbXkWwdl0h
+tuw8xuHae0F2PsnvUYAgdVvAVRfuoLzShbITTljLnSi216DI5oClxIE9xdUcPn97DJ6OMAp37OYB
+ZmhUotvOy62oPOtGxRk37KcacPTkNRw6Xo8iez322q5y+LR7FI67QVj2H+EBvDRn0bCcvALodBK0
+zKalWbxmnWSATm+AlpngiroArj8KsUmt5gFKaUne9Cs1r8leL2qDlLmE1yy+yQTbav14/7dXzFz4
+yZaEGpadW4AMrX7OizNSXsRMsNXpR2NLJ8H3FZytJ20YvYLmLEYlGiaeTfDBqhF8+KKMWkFT+v6g
+/SlfknSw1RXgsF7KJHilgi1Ub05uHl8SmjONqpp1mxo2yGpuau8SmfkGphMd0oZh2/Zd2HegRHSb
+3MQ8TyrVHxMR59kie/4bAAAAAElFTkSuQmCC
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>
