@@ -1778,6 +1778,18 @@ DEVWijRYoXVQGZhlu5696RoYjHNK6AupYhjyV+npQBcpCwDhe5GajjOZHz12r/Wq6wQymAyxRufK
 /iUH0oA//9k=
 			</helperscreenshot>
 		</mouseitem>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="TestCI"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="e0dc2e14-4f55-4c41-ad6f-32c3715f35be">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
 	</recorditems>
 	<repository
 	id="7d9142d7-3237-4654-9e6c-0cc81b618c1e"

@@ -101,6 +101,8 @@ namespace RxCostcoCI
             repo.MainForm.Close.Click("25;13");
             Delay.Milliseconds(200);
             
+            Report.Log(ReportLevel.Info, "User", "TestCI", new RecordItemIndex(6));
+            
         }
 
 #region Image Feature Data
